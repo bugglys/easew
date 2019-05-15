@@ -1,1 +1,1 @@
-{"buildver":1,"resver":0,"pkgurl":"http:\/\/www.baidu.com","resurl":"http:\/\/192.168.0.104\/web","report":"http:\/\/192.168.0.134:92\/UploadVersion.php","review":"","loginurl":"110.173.57.146:7878"}
+{"buildver":"1","resver":"0","pkgurl":"http:\/\/www.taobao.comssss","report":"http:\/\/192.168.0.134:92\/UploadVersion.php","review":"sssssss","loginurl":"110.173.57.146:7878"}
