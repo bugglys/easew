@@ -1,1 +1,1 @@
-{"buildver":"1","resver":"5","pkgurl":"http:\/\/www.taobao.comssss","report":"http:\/\/123.176.102.238:84\/UploadLog.php","review":"","loginurl":"110.173.57.146:7878","headurl":"http:\/\/123.176.102.238:83"}
+{"buildver":"1","resver":"5","pkgurl":"http:\/\/www.taobao.comssss","report":"http:\/\/123.176.102.238:84\/UploadLog.php","review":"0","loginurl":"154.83.12.254:7878","headurl":"http:\/\/123.176.102.238:83"}
