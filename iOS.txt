@@ -1,1 +1,1 @@
-{"buildver":"1","resver":"5","pkgurl":"http:\/\/www.taobao.com","report":"http:\/\/192.168.0.134:92\/UploadVersion.php","review":"0","loginurl":"154.83.12.254:7878","headurl":"http:\/\/123.176.102.238:83","resurl":"http:\/\/www.taobao.com"}
+{"buildver":"1","resver":"5","pkgurl":"http:\/\/www.taobao.comssss","report":"http:\/\/192.168.0.134:92\/UploadVersion.php","review":"0","loginurl":"154.83.12.254:7878","headurl":"http:\/\/123.176.102.238:83","resurl":"http:\/\/www.taobao.com"}
