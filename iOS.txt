@@ -1,1 +1,1 @@
-{"buildver":"1","resver":"5","pkgurl":"http:\/\/www.taobao.com111","report":"http:\/\/192.168.0.134:92\/UploadVersion.php","review":"0","loginurl":"154.83.12.254:7878","headurl":"http:\/\/123.176.102.238:83","resurl":"http:\/\/www.taobao.comssss"}
+eyJidWlsZHZlciI6IjEiLCJyZXN2ZXIiOiI1IiwicGtndXJsIjoiaHR0cDpcL1wvd3d3LnRhb2Jhby5jb20iLCJyZXBvcnQiOiJodHRwOlwvXC8xOTIuMTY4LjAuMTM0OjkyXC9VcGxvYWRWZXJzaW9uLnBocCIsInJldmlldyI6IjAiLCJsb2dpbnVybCI6IjE1NC44My4xMi4yNTQ6Nzg3OCIsImhlYWR1cmwiOiJodHRwOlwvXC8xMjMuMTc2LjEwMi4yMzg6ODMiLCJyZXN1cmwiOiJodHRwOlwvXC93d3cudGFvYmFvLmNvbXNzc3MifQ==
