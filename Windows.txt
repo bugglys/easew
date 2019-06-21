@@ -4,7 +4,7 @@
     "pkgurl": "https://fir.im/98yb",
     "report": "http://zy1.gosanli.com:84/UploadLog.php",
     "review": "0",
-    "loginurl": "123.176.102.238:7878",
+    "loginurl": "154.83.12.254:7878",
     "headurl": "http://zy1.gosanli.com:83",
     "resurl": "http://192.168.0.104/web"
 }
