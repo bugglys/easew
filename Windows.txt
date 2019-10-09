@@ -1,6 +1,6 @@
 {
-    "buildver": "1",
-    "resver": "10",
+    "buildver": "2",
+    "resver": "19",
     "pkgurl": "https://fir.im/98yb",
     "report": "http://zy1.gosanli.com:84/UploadLog.php",
     "review": "0",
