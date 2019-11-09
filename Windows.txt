@@ -6,5 +6,6 @@
     "review": "0",
     "loginurl": "148.66.49.98:7878",
     "headurl": "http://zy1.gosanli.com:83",
-    "resurl": "http://192.168.0.104/web"
+    "resurl": "http://192.168.0.104/web",
+    "services":"http://113.52.133.245:8812"
 }
